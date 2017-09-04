@@ -23,7 +23,8 @@ Programmer.prototype = {
 	_appIds: [
 		'bfocfdombeaehbdbobmeljgofafkbned',
 		'clijbellammajbodikfacoomakbhhmpb',
-		'kmbmjdabhpdnpeobnbdchihdcdaccidi'
+		'kmbmjdabhpdnpeobnbdchihdcdaccidi',
+                'bjmffiphbohggjoddhgadlhcjgeieadi'
 	],
 	_APP_URL: 'https://chrome.google.com/webstore/detail/tkg-chrome-app/kmbmjdabhpdnpeobnbdchihdcdaccidi',
 	isAvailable: function() {
