@@ -117,8 +117,23 @@
 		"11,6.25": { "row": 5, "col": 11 },
 		"12,6.25": { "row": 5, "col": 10 }
 	},
-	"led_count": 2,
+	"led_count": 3,
 	"led_map": [{
+		"name": "LED1",
+		"description": "The first LED of the 3 LEDs",
+		"default": {
+			"value": "LEDMAP_ACTIVE_HIGH",
+			"param": {
+				"binding": {
+					"value": "LEDMAP_BINDING_LAYER",
+					"param": {
+						"layer": 1
+					}
+				},
+				"backlight": 0
+			}
+		}
+	},{
 		"name": "RX",
 		"description": "The RX LED on Pro Micro",
 		"default": {
