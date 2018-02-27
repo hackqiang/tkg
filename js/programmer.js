@@ -24,7 +24,7 @@ Programmer.prototype = {
 		'bfocfdombeaehbdbobmeljgofafkbned',
 		'clijbellammajbodikfacoomakbhhmpb',
 		'kmbmjdabhpdnpeobnbdchihdcdaccidi',
-        'blbmfdldmagpekhighpgldaehldnegjj'
+        'kjaafgikdecpgnbocehdgkolgioboafd'
 	],
 	_APP_URL: 'https://chrome.google.com/webstore/detail/tkg-chrome-app/kmbmjdabhpdnpeobnbdchihdcdaccidi',
 	isAvailable: function() {
